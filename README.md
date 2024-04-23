@@ -66,3 +66,19 @@ Thread**
 **5: click shiny rocks and give it how many shiny rocks to give that person**
 ![image](https://github.com/galaxyef/gorillacopy/assets/96215437/267aac72-25f0-436a-8a82-97ea57059a18)
 
+# How to ban someone
+**1: go to playfab**
+
+**2: go to the player you wanna you wanna ban** 
+
+**3: click on the player id** 
+
+**4: Go to bans** 
+
+**5: click add ban** 
+
+**6: and make the ban**     (To remove the ban click the check on next to the ban and click revroke)
+
+![image](https://github.com/galaxyef/gorillacopy/assets/96215437/ca3fbc4b-dda9-430b-9539-18115341581f)
+
+
