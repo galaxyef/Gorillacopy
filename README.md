@@ -1,4 +1,4 @@
-**Tut how to make a gorilla tag copy the right way made by: @galaxyef and @gooselady**
+z**Tut how to make a gorilla tag copy the right way made by: @galaxyef and @gooselady**
 ![New_Project_5_65 (1)](https://github.com/galaxyef/gorillacopy/assets/96215437/61ff6181-de3a-44ee-84ca-c877b7c6f236)
 
 
@@ -77,8 +77,21 @@ Thread**
 
 **5: click add ban** 
 
-**6: and make the ban**     (To remove the ban click the check on next to the ban and click revroke)
+**6: and make the ban**    (To remove the ban click the check on next to the ban and click revroke)
 
 ![image](https://github.com/galaxyef/gorillacopy/assets/96215437/ca3fbc4b-dda9-430b-9539-18115341581f)
+# How to add a package to unity 
+**1: Go to the package you wanna download and install onto your computer**  (Note! : Make sure your package ends in ".unitypackage")
+
+**2: when you have your unity project open and the .unitypackage installed drag the file onto your unity and click "All" and "Import"**
+
+**3: When the package is in your unity you wanna add it to your game**
+
+**4: Your done!**
+# How to configure Playfab and photon onto your unity build
+**1: Go to unity and look at the hierarchy window make sure everything is nice**
+
+**2: When the hierarchy looks nice find the "
+
 
 
