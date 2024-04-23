@@ -8,7 +8,7 @@ First Step - Download Unity with verison **Unity 2021.3.21f1**
 Download Links: www.unity.com | https://unity.com/releases/editor/whats-new/2021.3.21
 (When Downloading and Installing It Into unity also install **Anrdriod Build Support** with it)
 
-Second Step - Download the zip file to open the project in unity using the file **Unity Build** or clicking this link https://www.mediafire.com/file/ik7bj8i1q1kl0g4/idfksometempforgorillatagcopy.rar/file 
+Second Step - Download the zip file to open the project in unity clicking this link https://www.mediafire.com/file/ik7bj8i1q1kl0g4/idfksometempforgorillatagcopy.rar/file to download it 
 
 Thrid Step - When all the files and project are downloaded click add on unity and open the File from Mediafire 
 (You might have to wait for it to load up itll take a minute give it some time) 
@@ -20,4 +20,7 @@ Fifth Step - Go to playfab and make a new studio Call it whatever you want and w
 
 Sixth Step - Go to photon make an account when your in the dashborad make an app make a **Realtime app** And a **Voice app**
 
-Seveneth Step - 
+Seveneth Step - Connect playfab and photon watch the video tutorial to make this easier and faster
+
+# How to make the apk build for Unity
+On the top left find the 
