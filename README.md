@@ -23,4 +23,31 @@ Sixth Step - Go to photon make an account when your in the dashborad make an app
 Seveneth Step - Connect playfab and photon watch the video tutorial to make this easier and faster
 
 # How to make the apk build for Unity
-On the top left find the 
+**1: go to the following: Edit > Project Settings > Player > Publishing Settings**
+
+**2: make a keystore, set the passwords and dont forget them**
+
+**3: put the keystore passwords in where the two text boxes are**
+
+**4: go to the following: File > Build Settings**
+
+**5: make sure your build settings look like the ones in the image**
+
+**6: make a build for android by hitting "Build." If it says switch platform then do that first and then build 
+Thread**
+![image](https://github.com/galaxyef/gorillacopy/assets/96215437/e822ca46-ad98-43b5-8ac2-eb09fd1624e0)
+
+# How to give cosmetics
+**1: go to your playfab**
+
+**2: find you or whoever you want to give**
+
+**3: click on the player id**
+
+**4: go to inventory legacy**
+
+**5: where it says item id, click Select Item above the box**
+
+**6: search for the item**
+
+**7: click grant item**
