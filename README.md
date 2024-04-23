@@ -51,3 +51,18 @@ Thread**
 **6: search for the item**
 
 **7: click grant item**
+![image](https://github.com/galaxyef/gorillacopy/assets/96215437/a1e27731-9d96-42c6-a075-d1e7241ef3a5)
+
+
+# How to give someone Shiny Rocks
+**1: go to playfab**
+
+**2: go to the player you wanna give it to** 
+
+**3: click on the player id**
+
+**4: go to Virtual Currency**
+
+**5: click shiny rocks and give it how many shiny rocks to give that person**
+![image](https://github.com/galaxyef/gorillacopy/assets/96215437/267aac72-25f0-436a-8a82-97ea57059a18)
+
