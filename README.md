@@ -89,6 +89,25 @@ Thread**
 
 **4: Your done!**
 
+# How to Connect playfab and photon to Unity
+**1: First have your unity opened with your playfab ID and your photon app and voice**
+
+**2: Go to unity and go to the Hierarchy window and open the "Photon Manager"**
+
+**3: Then click "playfabauthenticator"**
+
+**4: When there look at the inspector Window**
+
+**5: Then on the script find "Expected Title Id" Put your playfab id in the box**
+
+**6: Then on the script look for 3 Dots Click on it then click Edit and Edit with notepad** 
+
+**7: Scroll down on the script intill you see this**
+PhotonNetwork.PhotonServerSettings.AppSettings.AppIdRealtime = "App id Here!";
+			PhotonNetwork.PhotonServerSettings.AppSettings.AppIdVoice = "Voice Id here!";
+			PhotonNetwork.PhotonServerSettings.AppSettings.AppVersion = "Playfab ID!";
+**
+
 
 
 
